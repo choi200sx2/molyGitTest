@@ -1,7 +1,11 @@
 hello git
 
-jmlee add 
+jmlee add
 
 moly pull test
 
 moly conflict test with jmlee
+
+jmlee는 여기 수정 안 하고 있어요.
+
+배고픈데 곱쏘벙개 언제할까요 - 톰
